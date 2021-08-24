@@ -1,6 +1,8 @@
 # Touhou keyboard remap
 **AutoHotkey script for remapping the wasd keys.**
+
 Needed it to play touhou.
+
 ### Keys
 Key | Value
 -|-
