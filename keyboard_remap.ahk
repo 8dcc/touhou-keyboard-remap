@@ -8,6 +8,7 @@ status_size = 12 ; Font size
 status_font = Courier New ; Leave blank for default
 
 drawString(status_x, status_y, "[+] Custom keys on", 0x00ff00, status_size, status_font, 008800)
+Menu, Tray, Icon, , , 1
 
 w::Up
 s::Down
